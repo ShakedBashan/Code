@@ -1,7 +1,6 @@
 #%% Imports, CSVs and dictionary setups
 
 """Created by Shaked on 14.03.2023
-Last changed on 16.04.2023
 Delta distances between CA of subunits"""
 
 # ------------------------------------------------------------------------------------------------------------------------------------------------------------------
